@@ -11,9 +11,9 @@ built-in AI.
 ## Why
 
 Tangible started as a full second brain built in Notion: a meal planner,
-an exercise library, a personal project board, a recurring-task list, an
-automated pack-list generator, and a home for notes from every hobby
-that wouldn't leave them alone. It worked — until it didn't.
+an exercise library, a personal project board, a recurring-task list, an 
+automated pack-list generator, and a place to keep notes for every
+hobby that needed its own system — recipes, Spanish & Arabic grammar, carpentry hacks. It worked — until it didn't.
 
 Everything lived in one place, but I kept running into the same walls.
 I knew I could build it better.
