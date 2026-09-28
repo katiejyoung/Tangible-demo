@@ -29,9 +29,6 @@ So I am.
 
 🚧 In active development. Public beta coming soon.
 
-The project board inside Tangible tracks Tangible's development.
-It's been its own best customer since day one.
-
 ## Follow along
 
 - Watch this repo for release announcements
