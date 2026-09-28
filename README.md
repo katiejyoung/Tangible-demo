@@ -6,8 +6,6 @@ Notes, tasks, and reference material in one place — connected to the
 physical world through IoT integrations and brought to life with
 built-in AI.
 
-![Tangible demo](demo.gif)
-
 ## Why
 
 Tangible started as a full second brain built in Notion: a meal planner,
